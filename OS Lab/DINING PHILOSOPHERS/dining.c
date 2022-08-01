@@ -99,5 +99,3 @@ int main()
 
 		pthread_join(thread_id[i], NULL);
 }
-dining_philosopher.c
-Displaying dining_philosopher.c.Previous
